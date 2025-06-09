@@ -10,7 +10,9 @@
       "import": "./dist/formeo.es.js",
       "require": "./dist/formeo.cjs.js",
       "default": "./dist/formeo.umd.js"
-    }
+    },
+    "./dist/formeo.min.css": "./dist/formeo.min.css",
+    "./dist/assets/icons.svg":  "./dist/assets/icons.svg"
   },
   "files": [
     "dist/*",
